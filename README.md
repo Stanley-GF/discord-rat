@@ -10,7 +10,11 @@ Just a remote administration tool controllable with a Discord Bot using Discord.
 
 * Go in Program.cs and edit "discord bot token here" by your discord bot token 
 
-      ![](https://cdn.discordapp.com/attachments/749668330775904387/751911305556000788/unknown.png)
+![](https://cdn.discordapp.com/attachments/749668330775904387/751911305556000788/unknown.png)
+
+* Edit "webhook url link here" by your discord webhook link
+
+![](https://cdn.discordapp.com/attachments/749668330775904387/751911978397597704/unknown.png)
 
 # Features
 
