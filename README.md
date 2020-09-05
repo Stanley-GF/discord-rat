@@ -16,6 +16,10 @@ Just a remote administration tool controllable with a Discord Bot using Discord.
 
 ![](https://cdn.discordapp.com/attachments/749668330775904387/751911978397597704/unknown.png)
 
+* Build it and send to your friend
+
+* Enjoy :) 
+
 # Features
 
 `!!check` : list all connected client
