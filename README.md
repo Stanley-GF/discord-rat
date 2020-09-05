@@ -4,7 +4,9 @@ Just a remote administration tool controllable with a Discord Bot using Discord.
 
 # Setup
 
-1. Open 
+1 - Open the ".csproject file"
+2-  Install via nuget package "Discord.Net"
+3 - 
 
 # Features
 
